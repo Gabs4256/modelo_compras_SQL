@@ -41,7 +41,7 @@ O banco de dados `loja_pedidos` representa o controle de **clientes**, **pedidos
 
 O diagrama abaixo representa o MER que serviu de base para a construção do modelo físico:
 
-![MER do sistema de clientes, pedidos e produtos](./mer.png)
+![MER do sistema de clientes, pedidos e produtos](./mer.png.png)
 
 **Principais pontos do modelo:**
 
